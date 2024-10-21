@@ -17,7 +17,7 @@ https://huggingface.co/spaces/novalix/NovaWebApp
 	- Use the Venn diagram algorithm to evaluate the structure novelty of your scaffolds
 	- Evaluate the target adressability of your DEL with your own machine learning model
 
-## Getting Started
+## How to install in your local PC
 1. **Clone the Repository:**
 	```
 	git clone https://github.com/novalixofficial/NovaWebApp.git
