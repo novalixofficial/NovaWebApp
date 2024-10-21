@@ -30,7 +30,7 @@ As demand of DNA Encoded Libraries in drug discovery programs continues to grow,
 ⚠️ When running NovaDEL Analyzer, be aware that if you want to predict the addressability you will need the model generated in NovaML or your own model
 
 ## Licence
-This project is licensed under the Apache License. See the [LISENCE](LICENSE) file for details.
+This project is licensed under the Apache License. See the [LICENCE](LICENSE) file for details.
 
 ## Contact
 For questions or suggestions, open an issue or contact us at [pschambel@novalix.com](mailto:pschambel@novalix.com).
