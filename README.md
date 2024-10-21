@@ -2,7 +2,9 @@
 Welcome to the official repository of tools and web applications developed by the Novalix Computational Chemistry Team
 
 ## Overview
-As demand of DNA Encoded Libraries in drug discovery programs continues to grow, we developed in this study a tool to guide medicinal chemists.
+In DEL screening, medicinal chemists often have to decide which library is the most appropriate in terms of both chemical diversity and target addressability (i.e. compatibility profile with the given target). 
+To address this, we developed a tool that enables systematic quantification of both parameters, using BM-scaffold analysis and Machine Learning.
+
 
 ## Link to Web Application 🖥️
 
