@@ -16,17 +16,18 @@ As demand of DNA Encoded Libraries in drug discovery programs continues to grow,
 
 ## Getting Started
 1. **Clone the Repository:**
-'''bash
+	```
 	git clone https://github.com/novalixofficial/NovaWebApp.git
-'''
-2. **Install Dependencies:**
-	'''bash
+	```
+3. **Install Dependencies:**
+	```
 	conda env create -f environment.yml
-	'''
-3. **Run the NovaWeb App:**
-	'''bash
+	```
+4. **Run the NovaWeb App:**
+	```
+ 	chmod u+x run.sh
 	./run.sh
-
+	```
 ⚠️ When running NovaDEL Analyzer, be aware that if you want to predict the addressability you will need the model generated in NovaML or your own model
 
 ## Licence
