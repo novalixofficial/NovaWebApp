@@ -8,7 +8,7 @@ To address this, we developed a tool that enables systematic quantification of b
 
 ## Link to Web Application 🖥️
 
-https://huggingface.co/spaces/novalix/NovaWebApp
+https://novalix-novawebapp.hf.space/ 
 
 ## Key Features
 - **NovaML:**
