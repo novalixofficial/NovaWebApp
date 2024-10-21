@@ -4,7 +4,7 @@ Welcome to the official repository of tools and web applications developed by th
 ## Overview
 As demand of DNA Encoded Libraries in drug discovery programs continues to grow, we developed in this study a tool to guide medicinal chemists.
 
-## Link to Web Application
+## Link to Web Application 🖥️
 
 https://huggingface.co/spaces/novalix/NovaWebApp
 
