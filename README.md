@@ -16,9 +16,9 @@ As demand of DNA Encoded Libraries in drug discovery programs continues to grow,
 
 ## Getting Started
 1. **Clone the Repository:**
-	'''bash
+'''bash
 	git clone https://github.com/novalixofficial/NovaWebApp.git
-	'''
+'''
 2. **Install Dependencies:**
 	'''bash
 	conda env create -f environment.yml
