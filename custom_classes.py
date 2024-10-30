@@ -1,4 +1,5 @@
 from sklearn.base import BaseEstimator, TransformerMixin
+import numpy as np
 
 class RemoveZeroVarianceFeatures(BaseEstimator, TransformerMixin):
     def fit(self, X, y=None):
