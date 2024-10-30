@@ -23,7 +23,7 @@ https://novalix-novawebapp.hf.space/
 1. **Clone the Repository:**
 	```
 	git clone https://github.com/novalixofficial/NovaWebApp.git
- 	cd NovaWebAppp
+ 	cd NovaWebApp
 	```
 2. **Install Dependencies:**
 	```
