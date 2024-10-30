@@ -23,15 +23,21 @@ https://novalix-novawebapp.hf.space/
 1. **Clone the Repository:**
 	```
 	git clone https://github.com/novalixofficial/NovaWebApp.git
+ 	cd NovaWebAppp
 	```
-3. **Install Dependencies:**
+2. **Install Dependencies:**
 	```
 	conda env create -f environment.yml
+ 	conda activate streamlit_env
 	```
-4. **Run the NovaWeb App:**
+3. **Run the NovaWeb App:**
 	```
  	chmod u+x run.sh
 	./run.sh
+	```
+ 4. **Copy the URL in your Browser (Chrome or Edge):**
+	```
+ 	http://localhost:1238
 	```
 ⚠️ When running NovaDEL Analyzer, be aware that if you want to predict the addressability you will need the model generated in NovaML or your own model
 
@@ -39,4 +45,4 @@ https://novalix-novawebapp.hf.space/
 This project is licensed under the Apache License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or suggestions, open an issue or contact us at [pschambel@novalix.com](mailto:pschambel@novalix.com).
+For questions or suggestions, open an issue.
