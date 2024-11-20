@@ -519,7 +519,7 @@ def main():
                 fp_list = [str(x) for x in fpdict]
                 st.session_state.fingerprint = st.selectbox('Select Fingerprint', fp_list)
                
-                st.session_state.threshold = 0.65
+                st.session_state.threshold = 0.35
                 st.write("The default threshold is 0.65")
                 #st.session_state.threshold = st.slider('Adjust threshold', 0.0, 1.0, 0.65)
                 
