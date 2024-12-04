@@ -12,7 +12,7 @@ https://novalix-novawebapp.hf.space/
 
 ## Key Features
 - **NovaML:**
-	- Build yout own machine learning model with your data
+	- Build your own machine learning model with your data
 	- Use your machine learning model to predict properties on your own data
 - **NovaDel Analyzer:**
 	- Use the TMAP algorithm to visualize your DEL in a chemical space
