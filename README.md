@@ -7,11 +7,11 @@ To address this, we developed a tool that enables systematic quantification of b
 
 **Preprint 📝📈**:  https://doi.org/10.26434/chemrxiv-2024-9fm01-v2 
 
-✨Update: We are happy to share that this work has been accepted for publication in *ACS Medicinal Chemistry Letter*
+✨Update: We are happy to share that this work has been accepted for publication in *ACS Medicinal Chemistry Letters*
 
 **Publication 📑✅**:  https://doi.org/10.1021/acsmedchemlett.4c00505  
 
-
+<br />
 
 ## Link to Web Application 🖥️
 
