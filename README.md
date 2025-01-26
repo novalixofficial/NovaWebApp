@@ -5,6 +5,11 @@ Welcome to the official repository of tools and web applications developed by th
 In DEL screening, medicinal chemists often have to decide which library is the most appropriate in terms of both chemical diversity and target addressability (i.e. compatibility profile with the given target). 
 To address this, we developed a tool that enables systematic quantification of both parameters, using BM-scaffold analysis and Machine Learning.
 
+**Preprint 📝📈**:  https://doi.org/10.26434/chemrxiv-2024-9fm01-v2 
+
+✨Update: We are happy to share that this work has been accepted for publication in *ACS Medicinal Chemistry Letter*
+
+**Publication 📑✅**:  https://doi.org/10.1021/acsmedchemlett.4c00505  
 
 ## Link to Web Application 🖥️
 
