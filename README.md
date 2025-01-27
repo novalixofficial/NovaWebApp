@@ -23,7 +23,7 @@ https://novalix-novawebapp.hf.space/
 	- Use your machine learning model to predict properties on your own data
 - **NovaDel Analyzer:**
 	- Use the TMAP algorithm to visualize your DEL in a chemical space
-	- Use the Venn diagram algorithm to evaluate the structure novelty of your scaffolds
+	- Use the Venn diagram algorithm to evaluate the structure innovativeness of your scaffolds
 	- Evaluate the target adressability of your DEL with your own machine learning model
 
 ## How to install in your local PC
